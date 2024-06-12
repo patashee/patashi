@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/patashi/static/css/main.9ff6d982.css",
+    "main.js": "/patashi/static/js/main.6907c86e.js",
+    "static/js/356.90460495.chunk.js": "/patashi/static/js/356.90460495.chunk.js",
+    "static/js/206.c7895ad0.chunk.js": "/patashi/static/js/206.c7895ad0.chunk.js",
+    "static/media/SPS.JPG": "/patashi/static/media/SPS.974701317b4061b2b6c4.JPG",
+    "static/media/shawls.png": "/patashi/static/media/shawls.23b945fba41b7b079933.png",
+    "static/media/lehenga.png": "/patashi/static/media/lehenga.3b8bb3af152e01e3618f.png",
+    "static/media/image.png": "/patashi/static/media/image.2d838ef822bb094a2d80.png",
+    "static/media/kurtha.jpeg": "/patashi/static/media/kurtha.5a9bc58c63f18dd7dc1a.jpeg",
+    "static/media/bridal.png": "/patashi/static/media/bridal.be08a3368c4121ec3f8c.png",
+    "static/media/saree.png": "/patashi/static/media/saree.3b7956642420d7ff8dc7.png",
+    "static/media/eSewa.jpeg": "/patashi/static/media/eSewa.f01b2fa9fc86c33e544d.jpeg",
+    "static/media/gowns.png": "/patashi/static/media/gowns.847d1523ebce0d34415e.png",
+    "static/media/imgdefault.png": "/patashi/static/media/imgdefault.864164e7a4ffbe7da138.png",
+    "static/media/dress.jpeg": "/patashi/static/media/dress.6d9f21c1194a11452be9.jpeg",
+    "static/media/casual.png": "/patashi/static/media/casual.c7458d52d8ec09474517.png",
+    "index.html": "/patashi/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.9ff6d982.css",
+    "static/js/main.6907c86e.js"
+  ]
+}
